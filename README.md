@@ -1,1 +1,1 @@
-# alura_bootcam-agendamento_hospitalar
+# alura_bootcamp-agendamento_hospitalar
